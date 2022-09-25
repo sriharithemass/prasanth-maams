@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 welcome to git 1234
 
+=======
+welcome to git abcde
+>>>>>>> prasanth
